@@ -6,7 +6,7 @@
 
 **git remote add origin httpsgithub.comEsdive07MiCuartoReposito.git:** asociar el repositorio web con el local (la ruta se genera desde github)
 
-**ctrl+L:**Limpia pantalla
+**ctrl+L:** Limpia pantalla
 
 **git add:** agrega todos los cambios  
 
@@ -14,7 +14,7 @@
 
 **git status:** visualiza cambios(rojo pendiente, verde guadados)
 
-**git commit -m "Mensaje de los cambios":**se debe hacer el comit siempre despues del add para salvar cambios con un comentario
+**git commit -m "Mensaje de los cambios":** se debe hacer el comit siempre despues del add para salvar cambios con un comentario
 
 **git log** permite ver la fecha y hora de commit
 
