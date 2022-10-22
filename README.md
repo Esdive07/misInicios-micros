@@ -26,6 +26,9 @@
 
 **cd MiSegundoRepositorio:** para entrar al epositorio despues de clonar
 
+**ll -a** cosultar carpetas ocultas
+**rm -rf .git** quitar .git
+
 # Ramas
 
 **git branch** mostar as ramas que se tienen en local
